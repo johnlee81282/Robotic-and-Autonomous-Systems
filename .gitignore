@@ -1,0 +1,18 @@
+# Build outputs
+codegentemp/
+Export/
+Debug/
+Release/
+
+# Logs & reports
+*.log
+*.html
+*.rpt
+
+# User-specific files
+*.cyprj.*
+*.cywrk.*
+
+# Windows / macOS junk
+Thumbs.db
+.DS_Store
