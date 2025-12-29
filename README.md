@@ -5,7 +5,12 @@ Three Projects: (i) Speed Control (ii) Navigation (iii) Autonomous Soccer Car
 This repository contains the full implementation, control logic, and evaluation criteria
 for three robotic and autonomous systems projects. Each project focuses on a different
 core robotics challenge, including feedback control, high-speed navigation, and
-autonomous perception and decision-making.
+autonomous perception and decision-making. Detailed documentation for each project is provided in the
+corresponding PDF report:
+
+- `Project1_Speed_Control_Report.pdf`
+- `Project2_Navigation_Report.pdf`
+- `Project3_Autonomous_Soccer_Car_Report.pdf`
 
 ## Project 1: Speed Control
 Our car must travel along: (i) a straight path, (ii) uphill, and (iii) downhill
