@@ -8,7 +8,7 @@ core robotics challenge, including feedback control, high-speed navigation, and
 autonomous perception and decision-making. Detailed documentation for each project is provided in the
 corresponding PDF report:
 
-- `Speed Control.pdf`
+- `Speed Control Report.pdf`
 - `Navigation Report.pdf`
 - `Autonomous Soccer Car Report.pdf`
 
